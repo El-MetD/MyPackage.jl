@@ -44,5 +44,6 @@ Tools:
 Contacts:
 Phone: +996702740166
 Email: abdraimova_el@mail.ru
+Telegram: @Met_dragon
 
 Desired position: Specialist in the field of automated testing and QA.
